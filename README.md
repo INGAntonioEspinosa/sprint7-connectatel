@@ -44,3 +44,14 @@ También se recomienda mantener opciones ajustadas para clientes de bajo uso y r
 - Seaborn
 - Matplotlib
 - Jupyter Notebook
+
+## Cómo ejecutar el notebook
+
+1. Descarga o clona este repositorio.
+2. Abra el archivo `version final sprint7.ipynb` en Jupyter Notebook, JupyterLab o Google Colab.
+3. Verificar el tener disponibles las librerías utilizadas: Python, Pandas, NumPy, Seaborn y Matplotlib.
+4. Ejecuta las celdas del notebook en orden, desde la primera hasta la última.
+
+## Guía de reproducción
+
+Para reproducir el análisis, se deben utilizar los datasets `plans.csv`, `users_latam.csv` y `usage.csv`. El notebook realiza la carga y exploración de los datos, limpieza y tratamiento de valores inválidos, agrupación de métricas por usuario, análisis estadístico, visualización de distribuciones, identificación de outliers, segmentación de clientes y elaboración de conclusiones y recomendaciones.
